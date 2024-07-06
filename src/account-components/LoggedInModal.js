@@ -25,7 +25,7 @@ const LoggedInModal = (props) => {
         size={"30px"}
         className="logged-in-modal-title"
       >
-        You can't log in in demo version!
+        You can't login in demo version!
       </Text>
     </Modal>
   );
