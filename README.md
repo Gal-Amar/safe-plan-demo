@@ -34,3 +34,8 @@ The response is split into sections:
 
 - **Frontend Repository**: [Safe Plan Frontend Repository](https://github.com/Gal-Amar/Safe-Plane)
 - **Backend Repository**: [Safe Plan Backend Repository](https://github.com/natalikrief/Safe-Plane-backend)
+
+## Video Demonstration
+
+Watch the video demonstration of the original website on YouTube:
+[Original Website Video](https://www.youtube.com/watch?v=DqGb0fgMiRQ&t=7s&ab_channel=%D7%92%D7%9C%D7%A2%D7%9E%D7%A8)
