@@ -1,0 +1,340 @@
+{
+  "_id": {
+    "$oid": "662ab87797eb58164538c5f9"
+  },
+  "email": "natali",
+  "plan": {
+    "overview": {
+      "title": "Solo Adventure Trip to India",
+      "about": "A cultural and adventurous journey to explore the vibrant and rich cultural heritage of India over 5 days for a young traveler.",
+      "currency": "Indian Rupee (INR)",
+      "language": "Hindi, English",
+      "current_weather": "Typically hot in May, averaging 30-40°C",
+      "clothing": "Light, breathable clothing; hats and sunglasses for sun protection; comfortable walking shoes"
+    },
+    "detailed_vacation_plan": {
+      "08.05": {
+        "Morning": {
+          "flight": "Departure from Tel Aviv to New Delhi",
+          "transport_options": {
+            "mode": "Airplane",
+            "time_frames": "Morning flight approx. 5-6 am"
+          }
+        },
+        "Noon": {
+          "transport_options": {
+            "mode": "Airport taxi",
+            "time_frames": "Approx. 1-2 pm"
+          }
+        },
+        "Evening": {
+          "attractions": {
+            "name": "Check-in at Hotel",
+            "detail": "Relax after the flight and settle in",
+            "address": "Exact hotel address in New Delhi",
+            "contact": "Hotel phone number",
+            "website_link": "Hotel website link",
+            "amenities": "Wi-Fi, Air Conditioning, Restaurant",
+            "price_range": "N/A"
+          }
+        }
+      },
+      "09.05": {
+        "Morning": {
+          "attractions": {
+            "name": "The Red Fort",
+            "detail": "A historic fort which served as the main residence of the Mughal emperors.",
+            "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+            "contact": "+91 11 2327 7705",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/tourist_place/red_fort.jsp",
+            "amenities": "Guided tours, Audio guides, Gift shop",
+            "price_range": "INR 35-550"
+          },
+          "restaurant": {
+            "name": "Karim's",
+            "address": "Jama Masjid, Gali Kababian, Old Delhi, New Delhi, 110006, India",
+            "contact": "+91 11 2326 4981",
+            "website_link": "http://www.karimhoteldelhi.com",
+            "recommended_dish": "Mutton Korma",
+            "price_range": "INR 300-800"
+          },
+          "transport_options": {
+            "mode": "Metro",
+            "time_frames": "8 am - 9 am"
+          }
+        },
+        "Noon": {
+          "attractions": {
+            "name": "India Gate",
+            "detail": "A war memorial located astride the Rajpath, on the eastern edge of the ceremonial axis of New Delhi.",
+            "address": "Rajpath, India Gate, New Delhi, Delhi, 110001, India",
+            "contact": "N/A",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/tourist_place/india_gate.jsp",
+            "amenities": "Park, Boating, Picnic spots",
+            "price_range": "Free"
+          },
+          "restaurant": {
+            "name": "Andhra Bhavan",
+            "address": "1, Ashoka Road, Feroze Shah Road, New Delhi, Delhi 110001, India",
+            "contact": "+91 11 2338 2031",
+            "website_link": "https://andhrabhavan.in",
+            "recommended_dish": "Hyderabadi Chicken Biryani",
+            "price_range": "INR 150-300"
+          },
+          "transport_options": {
+            "mode": "Auto-rickshaw",
+            "time_frames": "1 pm - 2 pm"
+          }
+        },
+        "Evening": {
+          "attractions": {
+            "name": "Lotus Temple",
+            "detail": "Known for its flowerlike shape, it is a Bahá'í House of Worship and also a prominent attraction in Delhi.",
+            "address": "Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019, India",
+            "contact": "+91 11 2338 9326",
+            "website_link": "https://bahaihouseofworship.in",
+            "amenities": "Meditation hall, Gardens",
+            "price_range": "Free"
+          },
+          "restaurant": {
+            "name": "Saravana Bhavan",
+            "address": "P-13, Connaught Circus, Connaught Lane, Barakhamba, New Delhi, Delhi 110001, India",
+            "contact": "+91 11 2331 7755",
+            "website_link": "http://www.saravanabhavan.com",
+            "recommended_dish": "Masala Dosa",
+            "price_range": "INR 250-500"
+          },
+          "transport_options": {
+            "mode": "Taxi",
+            "time_frames": "6 pm - 7 pm"
+          }
+        }
+      },
+      "10.05": {
+        "Morning": {
+          "attractions": {
+            "name": "Qutub Minar",
+            "detail": "A UNESCO World Heritage Site located in the Mehrauli area of Delhi, it is the tallest minaret in the world made up of bricks.",
+            "address": "Qutub Minar, Mehrauli, New Delhi, Delhi 110030, India",
+            "contact": "+91 11 2469 8431",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/tourist_place/qutub_minar.jsp",
+            "amenities": "Museum, Guided tours, Park",
+            "price_range": "INR 30-500"
+          },
+          "restaurant": {
+            "name": "Olive Bar & Kitchen",
+            "address": "One Style Mile, Haveli 6, Kalka Das Marg, Mehrauli, New Delhi, Delhi 110030, India",
+            "contact": "+91 98102 35472",
+            "website_link": "https://www.olivebarandkitchen.com",
+            "recommended_dish": "Mediterranean Platter",
+            "price_range": "INR 800-2000"
+          },
+          "transport_options": {
+            "mode": "Taxi",
+            "time_frames": "8 am - 9 am"
+          }
+        },
+        "Noon": {
+          "attractions": {
+            "name": "Akshardham Temple",
+            "detail": "A Hindu temple and a spiritual-cultural campus in Delhi. Reflecting traditional Hindu and Indian culture.",
+            "address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092, India",
+            "contact": "+91 11 4344 2344",
+            "website_link": "https://akshardham.com",
+            "amenities": "Exhibits, Boat ride, Water show",
+            "price_range": "INR 170-250"
+          },
+          "restaurant": {
+            "name": "Punjab Grill",
+            "address": "R3, Lower Ground Floor, Saket, New Delhi, Delhi 110017, India",
+            "contact": "+91 11 4157 2977",
+            "website_link": "https://www.punjabgrill.in",
+            "recommended_dish": "Tandoori Chicken",
+            "price_range": "INR 500-1500"
+          },
+          "transport_options": {
+            "mode": "Metro",
+            "time_frames": "12 pm - 1 pm"
+          }
+        },
+        "Evening": {
+          "attractions": {
+            "name": "Hauz Khas Village",
+            "detail": "A trendy neighborhood known for its nightlife. The area offers an eclectic mix of cafes, boutiques, art galleries, and restaurants.",
+            "address": "Hauz Khas, New Delhi, Delhi, India",
+            "contact": "N/A",
+            "website_link": "N/A",
+            "amenities": "Shopping, Dining, Nightlife",
+            "price_range": "Variable"
+          },
+          "restaurant": {
+            "name": "Naivedyam",
+            "address": "1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+            "contact": "+91 11 2696 0426",
+            "website_link": "http://naivedyam.com/",
+            "recommended_dish": "Thali",
+            "price_range": "INR 300-700"
+          },
+          "transport_options": {
+            "mode": "Auto-rickshaw",
+            "time_frames": "6 pm - 7 pm"
+          }
+        }
+      },
+      "11.05": {
+        "Morning": {
+          "attractions": {
+            "name": "Humayun's Tomb",
+            "detail": "A magnificent structure of Persian architecture built as a tomb of the Mughal Emperor Humayun.",
+            "address": "Mathura Road Opposite, Hazrat Nizamuddin Aulia Dargah, Nizamuddin, New Delhi, Delhi 110013, India",
+            "contact": "+91 11 2435 5275",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/tourist_place/humayuns_tomb.jsp",
+            "amenities": "Guided tours, Gardens, Photographic spots",
+            "price_range": "INR 30-600"
+          },
+          "restaurant": {
+            "name": "Saravana Bhavan",
+            "address": "Select Citywalk, Ground Floor, Select Citywalk Mall, Saket, New Delhi, Delhi 110017, India",
+            "contact": "+91 11 4059 1541",
+            "website_link": "http://www.saravanabhavan.com",
+            "recommended_dish": "Paneer Dosa",
+            "price_range": "INR 250-500"
+          },
+          "transport_options": {
+            "mode": "Metro",
+            "time_frames": "8 am - 9 am"
+          }
+        },
+        "Noon": {
+          "attractions": {
+            "name": "Jama Masjid",
+            "detail": "One of the largest mosques in India, built by Shah Jahan and a stunning example of Mughal architecture.",
+            "address": "Jama Masjid Rd, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006, India",
+            "contact": "N/A",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/tourist_place/jama_masjid.jsp",
+            "amenities": "Tourist-friendly, Photography allowed outside main prayer area",
+            "price_range": "Free, photography fee applicable"
+          },
+          "restaurant": {
+            "name": "Paranthe Wali Gali",
+            "address": "Chandni Chowk, New Delhi, Delhi, India",
+            "contact": "N/A",
+            "website_link": "N/A",
+            "recommended_dish": "Mixed Parantha",
+            "price_range": "INR 50-200"
+          },
+          "transport_options": {
+            "mode": "Foot, Rickshaw",
+            "time_frames": "11 am - 12 pm"
+          }
+        },
+        "Evening": {
+          "attractions": {
+            "name": "Chandni Chowk",
+            "detail": "One of the oldest and busiest markets in Old Delhi. Known for spices, dried fruit, silver jewelry, and vivid saris.",
+            "address": "Chandni Chowk, New Delhi, Delhi, India",
+            "contact": "N/A",
+            "website_link": "https://www.delhitourism.gov.in/delhitourism/aboutus/chandni_chowk.jsp",
+            "amenities": "Shopping, Food vendors, Cultural experience",
+            "price_range": "Variable"
+          },
+          "restaurant": {
+            "name": "Al Jawahar",
+            "address": "8, Jama Masjid Matia Mahal Road, Matia Mahal, Opposite Gate No. 1, Jama Masjid, New Delhi, Delhi 110006, India",
+            "contact": "+91 11 2327 5987",
+            "website_link": "https://www.aljawahar.co",
+            "recommended_dish": "Mughlai Chicken",
+            "price_range": "INR 400-800"
+          },
+          "transport_options": {
+            "mode": "Rickshaw",
+            "time_frames": "6 pm - 7 pm"
+          }
+        }
+      },
+      "12.05": {
+        "Morning": {
+          "attractions": {
+            "name": "Pack and Check-out",
+            "detail": "Prepare for departure back to Israel.",
+            "address": "Hotel's address",
+            "contact": "Hotel's phone number",
+            "website_link": "Hotel's website link",
+            "amenities": "Breakfast, Wi-Fi",
+            "price_range": "Included in stay"
+          },
+          "restaurant": {
+            "name": "Hotel's restaurant",
+            "address": "Hotel's exact address",
+            "contact": "Hotel's phone number",
+            "website_link": "Included in prior entries",
+            "recommended_dish": "Continental breakfast",
+            "price_range": "Included in stay"
+          },
+          "transport_options": {
+            "mode": "Taxi to airport",
+            "time_frames": "10 am - 11 am"
+          }
+        },
+        "Noon": {
+          "flight": "Departure from New Delhi to Tel Aviv",
+          "transport_options": {
+            "mode": "Airplane",
+            "time_frames": "Early Afternoon Flight"
+          }
+        },
+        "Evening": {
+          "transport_options": {
+            "mode": "Arrival in Tel Aviv, Taxi home",
+            "time_frames": "Evening"
+          }
+        }
+      }
+    },
+    "accommodations": {
+      "name": "Hotel Connaught Royale",
+      "address": "106, Babar Rd, Block M, Connaught Place, New Delhi, Delhi 110001, India",
+      "contact": "+91 11 4359 4444",
+      "website_link": "http://www.connaughtroyale.com",
+      "reviews": "3.5 to 4-star ratings, praised for cleanliness and location",
+      "price_range": "INR 4000-6000 (approx. NIS 160-240 per night)"
+    },
+    "additional_recommendations": "Ensure to try local street food for an authentic experience but always prioritize hygiene. Visit local markets for unique souvenirs.",
+    "essential_apps": "Google Maps for navigation, Ola/Uber for transportation, Zomato for restaurant reviews and bookings, XE Currency for currency conversion",
+    "summary": "A culturally rich exploration of India's capital, New Delhi, featuring visits to historic sites, bustling markets and sampling a swath of local cuisines. Ideal for young travelers looking to gain a profound insight into India's heritage and daily life within a modest budget.",
+    "locations": {
+      "08.05": {
+        "Tel Aviv Airport": "32.0055, 34.8854",
+        "New Delhi Airport": "28.5562, 77.1000",
+        "Hotel Connaught Royale": "28.6328, 77.2185"
+      },
+      "09.05": {
+        "The Red Fort": "28.6562, 77.2410",
+        "Karim's": "28.6495, 77.2334",
+        "India Gate": "28.6129, 77.2295",
+        "Andhra Bhavan": "28.6241, 77.2167",
+        "Lotus Temple": "28.5535, 77.2588",
+        "Saravana Bhavan": "28.6315, 77.2165"
+      },
+      "10.05": {
+        "Qutub Minar": "28.5245, 77.1855",
+        "Olive Bar & Kitchen": "28.5004, 77.1868",
+        "Akshardham Temple": "28.6127, 77.2773",
+        "Punjab Grill": "28.5286, 77.2186",
+        "Hauz Khas Village": "28.5495, 77.2001",
+        "Naivedyam": "28.5546, 77.1948"
+      },
+      "11.05": {
+        "Humayun's Tomb": "28.5933, 77.2507",
+        "Jama Masjid": "28.6507, 77.2334",
+        "Paranthe Wali Gali": "28.6577, 77.2240",
+        "Chandni Chowk": "28.656, 77.2309",
+        "Al Jawahar": "28.6506, 77.2336"
+      },
+      "12.05": {
+        "New Delhi Airport": "28.5562, 77.1000",
+        "Tel Aviv Airport": "32.0055, 34.8854"
+      }
+    }
+  }
+}

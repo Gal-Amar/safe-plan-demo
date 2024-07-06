@@ -1,0 +1,224 @@
+{
+  "countries": [
+    {
+      "countryname": "🇺🇸 United States",
+      "cities": [
+        "🇺🇸 New York",
+        "🇺🇸 Los Angeles",
+        "🇺🇸 Las Vegas",
+        "🇺🇸 San Francisco",
+        "🇺🇸 Chicago",
+        "🇺🇸 Miami"
+      ]
+    },
+    {
+      "countryname": "🇨🇳 China",
+      "cities": [
+        "🇨🇳 Beijing",
+        "🇨🇳 Shanghai",
+        "🇨🇳 Guangzhou",
+        "🇨🇳 Hong Kong",
+        "🇨🇳 Xi'an",
+        "🇨🇳 Chengdu"
+      ]
+    },
+    {
+      "countryname": "🇫🇷 France",
+      "cities": [
+        "🇫🇷 Paris",
+        "🇫🇷 Nice",
+        "🇫🇷 Lyon",
+        "🇫🇷 Marseille",
+        "🇫🇷 Bordeaux",
+        "🇫🇷 Cannes"
+      ]
+    },
+    {
+      "countryname": "🇪🇸 Spain",
+      "cities": [
+        "🇪🇸 Barcelona",
+        "🇪🇸 Madrid",
+        "🇪🇸 Seville",
+        "🇪🇸 Valencia",
+        "🇪🇸 Granada",
+        "🇪🇸 Malaga"
+      ]
+    },
+    {
+      "countryname": "🇮🇹 Italy",
+      "cities": [
+        "🇮🇹 Rome",
+        "🇮🇹 Venice",
+        "🇮🇹 Florence",
+        "🇮🇹 Milan",
+        "🇮🇹 Naples",
+        "🇮🇹 Pisa"
+      ]
+    },
+    {
+      "countryname": "🇬🇧 United Kingdom",
+      "cities": [
+        "🇬🇧  London",
+        "🇬🇧 Edinburgh",
+        "🇬🇧 Manchester",
+        "🇬🇧 Birmingham",
+        "🇬🇧 Liverpool",
+        "🇬🇧 Glasgow"
+      ]
+    },
+    {
+      "countryname": "🇩🇪 Germany",
+      "cities": [
+        "🇩🇪 Berlin",
+        "🇩🇪 Munich",
+        "🇩🇪 Hamburg",
+        "🇩🇪 Cologne",
+        "🇩🇪 Frankfurt",
+        "🇩🇪 Dresden"
+      ]
+    },
+    {
+      "countryname": "🇲🇽 Mexico",
+      "cities": [
+        "🇲🇽 Mexico City",
+        "🇲🇽 Cancun",
+        "🇲🇽 Guadalajara",
+        "🇲🇽 Puerto Vallarta",
+        "🇲🇽 Tijuana",
+        "🇲🇽 Monterrey"
+      ]
+    },
+    {
+      "countryname": "🇹🇭 Thailand",
+      "cities": [
+        "🇹🇭 Bangkok",
+        "🇹🇭 Phuket",
+        "🇹🇭 Chiang Mai",
+        "🇹🇭 Pattaya",
+        "🇹🇭 Krabi",
+        "🇹🇭 Hua Hin"
+      ]
+    },
+    {
+      "countryname": "🇹🇷 Turkey",
+      "cities": [
+        "🇹🇷 Istanbul",
+        "🇹🇷 Antalya",
+        "🇹🇷 Ankara",
+        "🇹🇷 Izmir",
+        "🇹🇷 Bodrum",
+        "🇹🇷 Cappadocia"
+      ]
+    },
+    {
+      "countryname": "🇯🇵 Japan",
+      "cities": [
+        "🇯🇵 Tokyo",
+        "🇯🇵 Kyoto",
+        "🇯🇵 Osaka",
+        "🇯🇵 Hiroshima",
+        "🇯🇵 Nara",
+        "🇯🇵 Sapporo"
+      ]
+    },
+    {
+      "countryname": "🇬🇷 Greece",
+      "cities": [
+        "🇬🇷 Athens",
+        "🇬🇷 Santorini",
+        "🇬🇷 Mykonos",
+        "🇬🇷 Rhodes",
+        "🇬🇷 Crete",
+        "🇬🇷 Corfu"
+      ]
+    },
+    {
+      "countryname": "🇨🇦 Canada",
+      "cities": [
+        "🇨🇦 Toronto",
+        "🇨🇦 Vancouver",
+        "🇨🇦 Montreal",
+        "🇨🇦 Quebec City",
+        "🇨🇦 Calgary",
+        "🇨🇦 Ottawa"
+      ]
+    },
+    {
+      "countryname": "🇦🇺 Australia",
+      "cities": [
+        "🇦🇺 Sydney",
+        "🇦🇺 Melbourne",
+        "🇦🇺 Brisbane",
+        "🇦🇺 Perth",
+        "🇦🇺 Adelaide",
+        "🇦🇺 Gold Coast"
+      ]
+    },
+    {
+      "countryname": "🇧🇷 Brazil",
+      "cities": [
+        "🇧🇷 Rio de Janeiro",
+        "🇧🇷 Sao Paulo",
+        "🇧🇷 Salvador",
+        "🇧🇷 Brasilia",
+        "🇧🇷 Fortaleza",
+        "🇧🇷 Recife"
+      ]
+    },
+    {
+      "countryname": "🇷🇺 Russia",
+      "cities": [
+        "🇷🇺 Moscow",
+        "🇷🇺 Saint Petersburg",
+        "🇷🇺 Sochi",
+        "🇷🇺 Kazan",
+        "🇷🇺 Yekaterinburg",
+        "🇷🇺 Novosibirsk"
+      ]
+    },
+    {
+      "countryname": "🇮🇳 India",
+      "cities": [
+        "🇮🇳 Delhi",
+        "🇮🇳 Mumbai",
+        "🇮🇳 Jaipur",
+        "🇮🇳 Agra",
+        "🇮🇳 Varanasi",
+        "🇮🇳 Goa"
+      ]
+    },
+    {
+      "countryname": "🇰🇷 South Korea",
+      "cities": [
+        "🇰🇷 Seoul",
+        "🇰🇷 Busan",
+        "🇰🇷 Incheon",
+        "🇰🇷 Jeju",
+        "🇰🇷 Gyeongju",
+        "🇰🇷 Daegu"
+      ]
+    },
+    {
+      "countryname": "🇮🇱 Israel",
+      "cities": [
+        "🇮🇱 Jerusalem",
+        "🇮🇱 Tel Aviv",
+        "🇮🇱 Haifa",
+        "🇮🇱 Eilat",
+        "🇮🇱 Dead Sea",
+        "🇮🇱 Tiberias"
+      ]
+    },
+    {
+      "countryname": "🇳🇱 Netherlands",
+      "cities": [
+        "🇳🇱 Amsterdam",
+        "🇳🇱 Rotterdam",
+        "🇳🇱 Utrecht",
+        "🇳🇱 The Hague",
+        "🇳🇱 Eindhoven",
+        "🇳🇱 Groningen"
+      ]
+    }
+  ]
+}

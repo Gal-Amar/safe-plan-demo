@@ -1,0 +1,72 @@
+{
+  "name": "safe-plane-new",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^4.1.0",
+    "@mantine/carousel": "^7.8.1",
+    "@mantine/charts": "^7.8.1",
+    "@mantine/code-highlight": "^7.8.1",
+    "@mantine/core": "^7.8.1",
+    "@mantine/dates": "^7.8.1",
+    "@mantine/form": "^7.8.1",
+    "@mantine/hooks": "^7.8.1",
+    "@mantine/notifications": "^7.8.1",
+    "@mantinex/mantine-logo": "^1.0.1",
+    "@tabler/core": "^1.0.0-beta20",
+    "@tabler/icons-react": "^2.46.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "azure-maps-control": "^3.1.2",
+    "dayjs": "^1.11.10",
+    "embla-carousel-react": "^7.1.0",
+    "file-saver": "^2.0.5",
+    "mantine-flagpack": "^4.0.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^11.0.0",
+    "react": "^18.2.0",
+    "react-azure-maps": "^1.0.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.0",
+    "react-router-dom": "^6.21.3",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.12.6",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "build:css": "postcss src/main.css -o src/index.css",
+    "watch:css": "postcss src/main.css -o src/index.css -w",
+    "start": "npm-run-all -p watch:css start-js",
+    "start-js": "react-scripts start",
+    "build-js": "react-scripts build",
+    "build": "npm-run-all build:css build-js",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
+    "postcss": "^8.4.33",
+    "postcss-preset-mantine": "^1.12.3",
+    "postcss-simple-vars": "^7.0.1"
+  }
+}
